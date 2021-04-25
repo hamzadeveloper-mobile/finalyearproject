@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "734588383087",
+    "project_id": "expilertfinale",
+    "storage_bucket": "expilertfinale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734588383087:android:94aeb145be8c7090b8c29a",
+        "android_client_info": {
+          "package_name": "com.developer.expilert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734588383087-fvaqiv2sjib4vlccok9mo0fu3fcoi9b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_AZWmdBCGed-eOIfcrZDzWqchnJU3MiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734588383087-fvaqiv2sjib4vlccok9mo0fu3fcoi9b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
